@@ -64,5 +64,7 @@ RSpec.configure do |config|
   I18n.locale = "en"
 
   RSpec.configure do |config|
+  end
 end
+
 
